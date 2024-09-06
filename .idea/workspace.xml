@@ -4,20 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32dfe3b7-50f9-447e-ad4b-a7c6118c289e" name="Changes" comment="All New">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-course/attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-course/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-course/data_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-course/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plural-site-training/acronyms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plural-site-training/gender_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plural-site-training/test_gender_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudoko-game/sudoko_solver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="32dfe3b7-50f9-447e-ad4b-a7c6118c289e" name="Changes" comment="OOP Course files">
+      <change afterPath="$PROJECT_DIR$/files-course/archiving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-course/files/subfolder/sub2/in_sub_2_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-course/finding_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-course/read_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-course/working_with_files_folders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plural-site-training/company.py" beforeDir="false" afterPath="$PROJECT_DIR$/plural-site-training/company.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plural-site-training/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/plural-site-training/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/acronyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/acronyms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/acronyms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/acronyms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/astronos.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/astronos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/company.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/company.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/decates.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/decates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/dice_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/dice_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/gender_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/gender_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/loan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/movie_schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/movie_schedule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/restaurent.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/restaurent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/rock_papper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/rock_papper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/tax.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/tax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plural-site-training/test_gender_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/test_gender_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sudoko-game/sudoko_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/sudoko-game/sudoko_solver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +59,27 @@
     "Python tests.Python tests for test_gender_converter.Test.executor": "Run",
     "Python tests.Python tests for test_gender_converter.Test.test_convert_gender_male.executor": "Run",
     "Python.acronyms.executor": "Run",
+    "Python.archiving.executor": "Run",
     "Python.attributes.executor": "Run",
     "Python.classes.executor": "Run",
     "Python.company.executor": "Run",
     "Python.data_classes.executor": "Run",
+    "Python.finding_files.executor": "Run",
     "Python.inheritance.executor": "Run",
+    "Python.read_write.executor": "Run",
     "Python.sudoko_solver.executor": "Run",
+    "Python.working_with_files_folders.executor": "Run",
     "Python.write_acronym.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/C3S/self-study/python/my-python-training/my-python-training/oop-course",
+    "last_opened_file_path": "D:/C3S/self-study/python/my-python-training/my-python-training/files-course",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C3S\self-study\python\my-python-training\my-python-training\files-course" />
       <recent name="D:\C3S\self-study\python\my-python-training\my-python-training\oop-course" />
       <recent name="D:\C3S\self-study\python\my-python-training\my-python-training\plural-site-training" />
       <recent name="D:\C3S\self-study\python\my-python-training\my-python-training\amigos" />
@@ -73,8 +88,8 @@
       <recent name="D:\C3S\self-study\python\my-python-training\my-python-training\plural-site-training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.data_classes">
-    <configuration name="attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.read_write">
+    <configuration name="archiving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-python-training" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop-course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files-course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop-course/attributes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files-course/archiving.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="finding_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-python-training" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop-course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files-course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop-course/classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files-course/finding_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-python-training" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,33 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop-course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files-course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop-course/data_classes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my-python-training" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop-course" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop-course/inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files-course/read_write.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,12 +177,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="working_with_files_folders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-python-training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files-course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files-course/working_with_files_folders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.data_classes" />
-        <item itemvalue="Python.attributes" />
-        <item itemvalue="Python.inheritance" />
-        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.read_write" />
+        <item itemvalue="Python.archiving" />
+        <item itemvalue="Python.working_with_files_folders" />
+        <item itemvalue="Python.finding_files" />
         <item itemvalue="Python.sudoko_solver" />
       </list>
     </recent_temporary>
@@ -226,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725389581391</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOP Course files">
+      <option name="closed" value="true" />
+      <created>1725496319633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725496319633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,30 +277,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All New" />
-    <option name="LAST_COMMIT_MESSAGE" value="All New" />
+    <MESSAGE value="OOP Course files" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Course files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/sudoko-game/sudoko_solver.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/sudoko-game/sudoko_solver.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/sudoko-game/sudoko_solver.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/sudoko-game/sudoko_solver.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/files-course/archiving.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

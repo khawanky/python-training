@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\files-course\files_to_read\names.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\files-course\files_to_read\names2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
